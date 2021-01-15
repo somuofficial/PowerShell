@@ -1,0 +1,1 @@
+Get-Process | Sort-Object -Descending WS |select -First 5
